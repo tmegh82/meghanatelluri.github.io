@@ -589,6 +589,12 @@ http://www.tooplate.com/view/2106-soft-landing
     text-align: left;
   }
 
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+    }
+  }
+
 
 /*--------------------------------------
     EXPERIENCE
